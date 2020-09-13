@@ -2,11 +2,6 @@
 Obtaining insights into purchasing trends for the game, Heroes of Pymoli, using the Pandas library in Python.
 
 
-## Table of contents
-* [General Info](#General-Info)
-* [Technologies](#Technologies)
-* [Contact](#Contact)
-
 ## General Info
 
 This project showcases the analysis of purchasing data from a gaming company for their fantasy game, Heroes of Pymoli. Although the game is free-to-play, optional items are available for purchase to enhance the gaming experience of users. The aim of this project is to analyze the game's purchasing data (including purchase ID, screen names, age, gender, game item ID and name, and price) to understand trends, and obtain meaningful insights for the company.
