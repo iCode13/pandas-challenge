@@ -1,4 +1,5 @@
 # Pandas Challenge: Heroes of Pymoli
+
 Obtaining insights into purchasing trends for the game, Heroes of Pymoli, using the Pandas library in Python.
 
 ## General Info
@@ -22,15 +23,15 @@ The popular game items are usually also the most profitable. The top selling ite
 
 The languages, libraries and other tools used in this project are as below, and with their versions:
 
-    * Python - version 3.7.8
+* Python - version 3.7.8
     
-    * Pandas - version 20.1.1
+* Pandas - version 20.1.1
 
-    * Jupyter Notebook
+* Jupyter Notebook
 
 ## Contact
 
-Created by [@iCode13](https://github.com/iCode13) - please contact me with questions/comments.
+Created by [@iCode13](https://github.com/iCode13) - please contact with questions/comments.
 
 
 
